@@ -1,2 +1,6 @@
 # firma-electronica
-Documento informativo con una pequeña descripción y aparte una firma electrónica, se compone en 3 secciones, la foto principal, el texto y la firma. 
+Se compone en 3 apartados básicos: 
+
+- Foto, nombre y descripción 
+- Texto corte sobre mí
+- Firma electrónica
